@@ -1,7 +1,7 @@
 
   # Redesign Cronometer Mobile App
 
-  This is a code bundle for Redesign Cronometer Mobile App. The original project is available at https://www.figma.com/design/YUmxYAD26zOKDazpwI89Qs/Redesign-Cronometer-Mobile-App.
+  This is a code bundle for Redesign Cronometer Mobile App. The original project is available at 
 
   ## Running the code
 
